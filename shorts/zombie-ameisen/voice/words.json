@@ -1,0 +1,1293 @@
+[
+{
+"w": "In",
+"start": 0.46,
+"end": 0.76,
+"line": 0
+},
+{
+"w": "Thailand",
+"start": 0.76,
+"end": 1.04,
+"line": 0
+},
+{
+"w": "läuft",
+"start": 1.04,
+"end": 1.42,
+"line": 0
+},
+{
+"w": "gerade",
+"start": 1.42,
+"end": 1.62,
+"line": 0
+},
+{
+"w": "eine",
+"start": 1.62,
+"end": 2.02,
+"line": 0
+},
+{
+"w": "Zombieapokalypse",
+"start": 2.02,
+"end": 2.56,
+"line": 0
+},
+{
+"w": "Seit",
+"start": 3.025,
+"end": 3.16,
+"line": 1
+},
+{
+"w": "achtundvierzig",
+"start": 3.16,
+"end": 3.7,
+"line": 1
+},
+{
+"w": "Millionen",
+"start": 3.7,
+"end": 4.06,
+"line": 1
+},
+{
+"w": "Jahren",
+"start": 4.06,
+"end": 4.56,
+"line": 1
+},
+{
+"w": "Die",
+"start": 5.338,
+"end": 5.44,
+"line": 2
+},
+{
+"w": "Opfer",
+"start": 5.44,
+"end": 5.76,
+"line": 2
+},
+{
+"w": "sind",
+"start": 5.76,
+"end": 5.92,
+"line": 2
+},
+{
+"w": "Rossameisen",
+"start": 5.92,
+"end": 6.5,
+"line": 2
+},
+{
+"w": "Sie",
+"start": 6.908,
+"end": 7.04,
+"line": 3
+},
+{
+"w": "leben",
+"start": 7.04,
+"end": 7.3,
+"line": 3
+},
+{
+"w": "hoch",
+"start": 7.3,
+"end": 7.54,
+"line": 3
+},
+{
+"w": "oben",
+"start": 7.54,
+"end": 7.88,
+"line": 3
+},
+{
+"w": "in",
+"start": 7.88,
+"end": 8.0,
+"line": 3
+},
+{
+"w": "den",
+"start": 8.0,
+"end": 8.12,
+"line": 3
+},
+{
+"w": "Baumkronen",
+"start": 8.12,
+"end": 8.7,
+"line": 3
+},
+{
+"w": "und",
+"start": 8.7,
+"end": 9.06,
+"line": 3
+},
+{
+"w": "kommen",
+"start": 9.06,
+"end": 9.3,
+"line": 3
+},
+{
+"w": "nur",
+"start": 9.3,
+"end": 9.5,
+"line": 3
+},
+{
+"w": "selten",
+"start": 9.5,
+"end": 9.82,
+"line": 3
+},
+{
+"w": "auf",
+"start": 9.82,
+"end": 9.98,
+"line": 3
+},
+{
+"w": "den",
+"start": 9.98,
+"end": 10.1,
+"line": 3
+},
+{
+"w": "Boden",
+"start": 10.1,
+"end": 10.32,
+"line": 3
+},
+{
+"w": "Diese",
+"start": 10.895,
+"end": 11.172,
+"line": 4,
+"approx": true
+},
+{
+"w": "hier",
+"start": 11.172,
+"end": 11.41,
+"line": 4,
+"approx": true
+},
+{
+"w": "schon",
+"start": 11.41,
+"end": 11.687,
+"line": 4,
+"approx": true
+},
+{
+"w": "Und",
+"start": 11.887,
+"end": 12.068,
+"line": 5,
+"approx": true
+},
+{
+"w": "tritt",
+"start": 12.068,
+"end": 12.321,
+"line": 5,
+"approx": true
+},
+{
+"w": "auf",
+"start": 12.321,
+"end": 12.502,
+"line": 5,
+"approx": true
+},
+{
+"w": "eine",
+"start": 12.502,
+"end": 12.72,
+"line": 5,
+"approx": true
+},
+{
+"w": "Spore",
+"start": 12.72,
+"end": 12.973,
+"line": 5,
+"approx": true
+},
+{
+"w": "Nach",
+"start": 13.413,
+"end": 13.639,
+"line": 6,
+"approx": true
+},
+{
+"w": "ein",
+"start": 13.639,
+"end": 13.827,
+"line": 6,
+"approx": true
+},
+{
+"w": "paar",
+"start": 13.827,
+"end": 14.053,
+"line": 6,
+"approx": true
+},
+{
+"w": "Tagen",
+"start": 14.053,
+"end": 14.316,
+"line": 6,
+"approx": true
+},
+{
+"w": "sitzt",
+"start": 14.316,
+"end": 14.58,
+"line": 6,
+"approx": true
+},
+{
+"w": "der",
+"start": 14.58,
+"end": 14.768,
+"line": 6,
+"approx": true
+},
+{
+"w": "Pilz",
+"start": 14.768,
+"end": 14.994,
+"line": 6,
+"approx": true
+},
+{
+"w": "in",
+"start": 14.994,
+"end": 15.144,
+"line": 6,
+"approx": true
+},
+{
+"w": "jedem",
+"start": 15.144,
+"end": 15.408,
+"line": 6,
+"approx": true
+},
+{
+"w": "Muskel",
+"start": 15.408,
+"end": 15.709,
+"line": 6,
+"approx": true
+},
+{
+"w": "ihres",
+"start": 15.709,
+"end": 15.972,
+"line": 6,
+"approx": true
+},
+{
+"w": "Körpers",
+"start": 15.972,
+"end": 16.311,
+"line": 6,
+"approx": true
+},
+{
+"w": "Nur",
+"start": 16.551,
+"end": 16.72,
+"line": 7
+},
+{
+"w": "ins",
+"start": 16.72,
+"end": 16.9,
+"line": 7
+},
+{
+"w": "Gehirn",
+"start": 16.9,
+"end": 17.24,
+"line": 7
+},
+{
+"w": "geht",
+"start": 17.24,
+"end": 17.38,
+"line": 7
+},
+{
+"w": "er",
+"start": 17.38,
+"end": 17.52,
+"line": 7
+},
+{
+"w": "nicht",
+"start": 17.52,
+"end": 17.68,
+"line": 7
+},
+{
+"w": "Sie",
+"start": 18.278,
+"end": 18.42,
+"line": 8
+},
+{
+"w": "verlässt",
+"start": 18.42,
+"end": 18.78,
+"line": 8
+},
+{
+"w": "den",
+"start": 18.78,
+"end": 18.88,
+"line": 8
+},
+{
+"w": "Pfad",
+"start": 18.88,
+"end": 19.14,
+"line": 8
+},
+{
+"w": "Sie",
+"start": 19.52,
+"end": 19.64,
+"line": 9
+},
+{
+"w": "zittert",
+"start": 19.64,
+"end": 20.1,
+"line": 9
+},
+{
+"w": "Sie",
+"start": 20.36,
+"end": 20.46,
+"line": 10
+},
+{
+"w": "fällt",
+"start": 20.46,
+"end": 20.6,
+"line": 10
+},
+{
+"w": "vom",
+"start": 20.6,
+"end": 20.84,
+"line": 10
+},
+{
+"w": "Ast",
+"start": 20.84,
+"end": 21.1,
+"line": 10
+},
+{
+"w": "Dann",
+"start": 21.562,
+"end": 21.7,
+"line": 11
+},
+{
+"w": "klettert",
+"start": 21.7,
+"end": 22.04,
+"line": 11
+},
+{
+"w": "sie",
+"start": 22.04,
+"end": 22.12,
+"line": 11
+},
+{
+"w": "eine",
+"start": 22.12,
+"end": 22.32,
+"line": 11
+},
+{
+"w": "Pflanze",
+"start": 22.32,
+"end": 22.68,
+"line": 11
+},
+{
+"w": "hoch",
+"start": 22.68,
+"end": 22.94,
+"line": 11
+},
+{
+"w": "Genau",
+"start": 23.237,
+"end": 23.46,
+"line": 12
+},
+{
+"w": "fünfundzwanzig",
+"start": 23.46,
+"end": 24.14,
+"line": 12
+},
+{
+"w": "Zentimeter",
+"start": 24.14,
+"end": 24.6,
+"line": 12
+},
+{
+"w": "Nordseite",
+"start": 25.16,
+"end": 25.72,
+"line": 13
+},
+{
+"w": "Um",
+"start": 26.243,
+"end": 26.408,
+"line": 14,
+"approx": true
+},
+{
+"w": "zwölf",
+"start": 26.408,
+"end": 26.697,
+"line": 14,
+"approx": true
+},
+{
+"w": "Uhr",
+"start": 26.697,
+"end": 26.904,
+"line": 14,
+"approx": true
+},
+{
+"w": "mittags",
+"start": 26.904,
+"end": 27.276,
+"line": 14,
+"approx": true
+},
+{
+"w": "beißt",
+"start": 27.276,
+"end": 27.565,
+"line": 14,
+"approx": true
+},
+{
+"w": "sie",
+"start": 27.565,
+"end": 27.771,
+"line": 14,
+"approx": true
+},
+{
+"w": "in",
+"start": 27.771,
+"end": 27.937,
+"line": 14,
+"approx": true
+},
+{
+"w": "eine",
+"start": 27.937,
+"end": 28.185,
+"line": 14,
+"approx": true
+},
+{
+"w": "Blattader",
+"start": 28.185,
+"end": 28.639,
+"line": 14,
+"approx": true
+},
+{
+"w": "Und",
+"start": 28.919,
+"end": 29.105,
+"line": 15,
+"approx": true
+},
+{
+"w": "lässt",
+"start": 29.105,
+"end": 29.366,
+"line": 15,
+"approx": true
+},
+{
+"w": "nie",
+"start": 29.366,
+"end": 29.553,
+"line": 15,
+"approx": true
+},
+{
+"w": "wieder",
+"start": 29.553,
+"end": 29.851,
+"line": 15,
+"approx": true
+},
+{
+"w": "los",
+"start": 29.851,
+"end": 30.037,
+"line": 15,
+"approx": true
+},
+{
+"w": "Zum",
+"start": 30.717,
+"end": 30.88,
+"line": 16
+},
+{
+"w": "Glück",
+"start": 30.88,
+"end": 31.12,
+"line": 16
+},
+{
+"w": "ist",
+"start": 31.12,
+"end": 31.28,
+"line": 16
+},
+{
+"w": "dieser",
+"start": 31.28,
+"end": 31.5,
+"line": 16
+},
+{
+"w": "Pilz",
+"start": 31.5,
+"end": 31.82,
+"line": 16
+},
+{
+"w": "auf",
+"start": 31.82,
+"end": 31.94,
+"line": 16
+},
+{
+"w": "Ameisen",
+"start": 31.94,
+"end": 32.3,
+"line": 16
+},
+{
+"w": "spezialisiert",
+"start": 32.3,
+"end": 32.96,
+"line": 16
+},
+{
+"w": "Menschen",
+"start": 33.32,
+"end": 33.58,
+"line": 17
+},
+{
+"w": "stehen",
+"start": 33.58,
+"end": 33.82,
+"line": 17
+},
+{
+"w": "nicht",
+"start": 33.82,
+"end": 34.06,
+"line": 17
+},
+{
+"w": "auf",
+"start": 34.06,
+"end": 34.22,
+"line": 17
+},
+{
+"w": "seiner",
+"start": 34.22,
+"end": 34.4,
+"line": 17
+},
+{
+"w": "Liste",
+"start": 34.4,
+"end": 34.7,
+"line": 17
+},
+{
+"w": "Zum",
+"start": 35.169,
+"end": 35.32,
+"line": 18
+},
+{
+"w": "Pech",
+"start": 35.32,
+"end": 35.56,
+"line": 18
+},
+{
+"w": "der",
+"start": 35.56,
+"end": 35.7,
+"line": 18
+},
+{
+"w": "Ameisen",
+"start": 35.7,
+"end": 36.04,
+"line": 18
+},
+{
+"w": "hat",
+"start": 36.04,
+"end": 36.18,
+"line": 18
+},
+{
+"w": "er",
+"start": 36.18,
+"end": 36.32,
+"line": 18
+},
+{
+"w": "Übung",
+"start": 36.32,
+"end": 36.64,
+"line": 18
+},
+{
+"w": "Ein",
+"start": 36.98,
+"end": 37.08,
+"line": 19
+},
+{
+"w": "Blatt",
+"start": 37.08,
+"end": 37.34,
+"line": 19
+},
+{
+"w": "aus",
+"start": 37.34,
+"end": 37.5,
+"line": 19
+},
+{
+"w": "der",
+"start": 37.5,
+"end": 37.64,
+"line": 19
+},
+{
+"w": "Grube",
+"start": 37.64,
+"end": 37.94,
+"line": 19
+},
+{
+"w": "Messel",
+"start": 37.94,
+"end": 38.28,
+"line": 19
+},
+{
+"w": "in",
+"start": 38.28,
+"end": 38.38,
+"line": 19
+},
+{
+"w": "Hessen",
+"start": 38.38,
+"end": 38.58,
+"line": 19
+},
+{
+"w": "achtundvierzig",
+"start": 38.9,
+"end": 39.32,
+"line": 19
+},
+{
+"w": "Millionen",
+"start": 39.32,
+"end": 39.76,
+"line": 19
+},
+{
+"w": "Jahre",
+"start": 39.76,
+"end": 40.12,
+"line": 19
+},
+{
+"w": "alt",
+"start": 40.12,
+"end": 40.48,
+"line": 19
+},
+{
+"w": "trägt",
+"start": 40.74,
+"end": 40.92,
+"line": 19
+},
+{
+"w": "schon",
+"start": 40.92,
+"end": 41.06,
+"line": 19
+},
+{
+"w": "dieselben",
+"start": 41.06,
+"end": 41.36,
+"line": 19
+},
+{
+"w": "Bisse",
+"start": 41.36,
+"end": 41.6,
+"line": 19
+},
+{
+"w": "Neunundzwanzig",
+"start": 41.92,
+"end": 42.34,
+"line": 20
+},
+{
+"w": "Stück",
+"start": 42.34,
+"end": 42.78,
+"line": 20
+},
+{
+"w": "Wie",
+"start": 43.39,
+"end": 43.5,
+"line": 21
+},
+{
+"w": "steuert",
+"start": 43.5,
+"end": 43.84,
+"line": 21
+},
+{
+"w": "man",
+"start": 43.84,
+"end": 43.94,
+"line": 21
+},
+{
+"w": "eine",
+"start": 43.94,
+"end": 44.14,
+"line": 21
+},
+{
+"w": "Ameise",
+"start": 44.14,
+"end": 44.62,
+"line": 21
+},
+{
+"w": "ohne",
+"start": 44.62,
+"end": 44.92,
+"line": 21
+},
+{
+"w": "ihr",
+"start": 44.92,
+"end": 45.06,
+"line": 21
+},
+{
+"w": "Gehirn",
+"start": 45.06,
+"end": 45.36,
+"line": 21
+},
+{
+"w": "anzufassen",
+"start": 45.36,
+"end": 45.76,
+"line": 21
+},
+{
+"w": "Wie",
+"start": 46.228,
+"end": 46.34,
+"line": 22
+},
+{
+"w": "bei",
+"start": 46.34,
+"end": 46.5,
+"line": 22
+},
+{
+"w": "einer",
+"start": 46.5,
+"end": 46.66,
+"line": 22
+},
+{
+"w": "Marionette",
+"start": 46.66,
+"end": 47.28,
+"line": 22
+},
+{
+"w": "Der",
+"start": 47.64,
+"end": 47.76,
+"line": 23
+},
+{
+"w": "Puppenspieler",
+"start": 47.76,
+"end": 48.34,
+"line": 23
+},
+{
+"w": "muss",
+"start": 48.34,
+"end": 48.52,
+"line": 23
+},
+{
+"w": "nicht",
+"start": 48.52,
+"end": 48.7,
+"line": 23
+},
+{
+"w": "in",
+"start": 48.7,
+"end": 48.86,
+"line": 23
+},
+{
+"w": "den",
+"start": 48.86,
+"end": 48.96,
+"line": 23
+},
+{
+"w": "Kopf",
+"start": 48.96,
+"end": 49.18,
+"line": 23
+},
+{
+"w": "Er",
+"start": 49.46,
+"end": 49.6,
+"line": 24
+},
+{
+"w": "zieht",
+"start": 49.6,
+"end": 49.82,
+"line": 24
+},
+{
+"w": "einfach",
+"start": 49.82,
+"end": 50.12,
+"line": 24
+},
+{
+"w": "an",
+"start": 50.12,
+"end": 50.3,
+"line": 24
+},
+{
+"w": "allen",
+"start": 50.3,
+"end": 50.52,
+"line": 24
+},
+{
+"w": "Fäden",
+"start": 50.52,
+"end": 50.86,
+"line": 24
+},
+{
+"w": "gleichzeitig",
+"start": 50.86,
+"end": 51.24,
+"line": 24
+},
+{
+"w": "Ein",
+"start": 52.124,
+"end": 52.26,
+"line": 25
+},
+{
+"w": "paar",
+"start": 52.26,
+"end": 52.44,
+"line": 25
+},
+{
+"w": "Tage",
+"start": 52.44,
+"end": 52.64,
+"line": 25
+},
+{
+"w": "später",
+"start": 52.64,
+"end": 53.02,
+"line": 25
+},
+{
+"w": "wächst",
+"start": 53.02,
+"end": 53.26,
+"line": 25
+},
+{
+"w": "ein",
+"start": 53.26,
+"end": 53.44,
+"line": 25
+},
+{
+"w": "Stiel",
+"start": 53.44,
+"end": 53.72,
+"line": 25
+},
+{
+"w": "aus",
+"start": 53.72,
+"end": 53.88,
+"line": 25
+},
+{
+"w": "ihrem",
+"start": 53.88,
+"end": 54.04,
+"line": 25
+},
+{
+"w": "Kopf",
+"start": 54.04,
+"end": 54.36,
+"line": 25
+},
+{
+"w": "und",
+"start": 54.36,
+"end": 54.72,
+"line": 25
+},
+{
+"w": "Sporen",
+"start": 54.72,
+"end": 55.04,
+"line": 25
+},
+{
+"w": "regnen",
+"start": 55.04,
+"end": 55.4,
+"line": 25
+},
+{
+"w": "auf",
+"start": 55.4,
+"end": 55.58,
+"line": 25
+},
+{
+"w": "den",
+"start": 55.58,
+"end": 55.7,
+"line": 25
+},
+{
+"w": "Pfad",
+"start": 55.7,
+"end": 55.96,
+"line": 25
+},
+{
+"w": "darunter",
+"start": 55.96,
+"end": 56.24,
+"line": 25
+},
+{
+"w": "Unter",
+"start": 56.721,
+"end": 57.012,
+"line": 26,
+"approx": true
+},
+{
+"w": "solchen",
+"start": 57.012,
+"end": 57.386,
+"line": 26,
+"approx": true
+},
+{
+"w": "Blättern",
+"start": 57.386,
+"end": 57.802,
+"line": 26,
+"approx": true
+},
+{
+"w": "zählten",
+"start": 57.802,
+"end": 58.176,
+"line": 26,
+"approx": true
+},
+{
+"w": "Forscher",
+"start": 58.176,
+"end": 58.592,
+"line": 26,
+"approx": true
+},
+{
+"w": "zweitausendzweihundert",
+"start": 58.592,
+"end": 59.589,
+"line": 26,
+"approx": true
+},
+{
+"w": "tote",
+"start": 59.589,
+"end": 59.839,
+"line": 26,
+"approx": true
+},
+{
+"w": "Ameisen",
+"start": 59.839,
+"end": 60.213,
+"line": 26,
+"approx": true
+},
+{
+"w": "Und",
+"start": 60.413,
+"end": 60.626,
+"line": 27,
+"approx": true
+},
+{
+"w": "nur",
+"start": 60.626,
+"end": 60.84,
+"line": 27,
+"approx": true
+},
+{
+"w": "zwei",
+"start": 60.84,
+"end": 61.096,
+"line": 27,
+"approx": true
+},
+{
+"w": "lebende",
+"start": 61.096,
+"end": 61.48,
+"line": 27,
+"approx": true
+},
+{
+"w": "Die",
+"start": 62.0,
+"end": 62.207,
+"line": 28,
+"approx": true
+},
+{
+"w": "Ameisen",
+"start": 62.207,
+"end": 62.58,
+"line": 28,
+"approx": true
+},
+{
+"w": "haben",
+"start": 62.58,
+"end": 62.87,
+"line": 28,
+"approx": true
+},
+{
+"w": "also",
+"start": 62.87,
+"end": 63.118,
+"line": 28,
+"approx": true
+},
+{
+"w": "genau",
+"start": 63.118,
+"end": 63.408,
+"line": 28,
+"approx": true
+},
+{
+"w": "eine",
+"start": 63.408,
+"end": 63.657,
+"line": 28,
+"approx": true
+},
+{
+"w": "Regel",
+"start": 63.657,
+"end": 63.946,
+"line": 28,
+"approx": true
+},
+{
+"w": "gelernt",
+"start": 63.946,
+"end": 64.319,
+"line": 28,
+"approx": true
+},
+{
+"w": "die",
+"start": 64.319,
+"end": 64.526,
+"line": 28,
+"approx": true
+},
+{
+"w": "in",
+"start": 64.526,
+"end": 64.692,
+"line": 28,
+"approx": true
+},
+{
+"w": "jedem",
+"start": 64.692,
+"end": 64.982,
+"line": 28,
+"approx": true
+},
+{
+"w": "Zombiefilm",
+"start": 64.982,
+"end": 65.479,
+"line": 28,
+"approx": true
+},
+{
+"w": "stimmt",
+"start": 65.479,
+"end": 65.81,
+"line": 28,
+"approx": true
+},
+{
+"w": "Bleib",
+"start": 66.09,
+"end": 66.411,
+"line": 29,
+"approx": true
+},
+{
+"w": "oben",
+"start": 66.411,
+"end": 66.687,
+"line": 29,
+"approx": true
+},
+{
+"w": "Und",
+"start": 66.967,
+"end": 67.154,
+"line": 30,
+"approx": true
+},
+{
+"w": "geh",
+"start": 67.154,
+"end": 67.341,
+"line": 30,
+"approx": true
+},
+{
+"w": "nie",
+"start": 67.341,
+"end": 67.528,
+"line": 30,
+"approx": true
+},
+{
+"w": "auf",
+"start": 67.528,
+"end": 67.714,
+"line": 30,
+"approx": true
+},
+{
+"w": "den",
+"start": 67.714,
+"end": 67.901,
+"line": 30,
+"approx": true
+},
+{
+"w": "Friedhof",
+"start": 67.901,
+"end": 68.275,
+"line": 30,
+"approx": true
+}
+]

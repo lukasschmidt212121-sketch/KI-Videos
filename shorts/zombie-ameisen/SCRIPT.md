@@ -1,7 +1,7 @@
 # Die Zombieapokalypse, die seit 48 Millionen Jahren läuft
 
 Arbeitstitel · vertikaler Short, Ziel 60–68 s · Sprache: Deutsch (Ausnahme von der Englisch-Regel, vom Nutzer gewählt)
-Status: **Skript-Entwurf v1, wartet auf Freigabe**
+Status: **Skript freigegeben (v1).** Für die Länge beim Vertonen gekürzt: die Zeile „Fünfundneunzig Prozent Luftfeuchtigkeit“ entfällt, und „in achtundvierzig Millionen Jahren“ fällt aus der vorletzten Zeile. Maßgeblich ist `voice/lines.txt`.
 
 ## Fakten und Quellen
 
@@ -34,7 +34,7 @@ Die Opfer sind Rossameisen. Sie leben hoch oben in den Baumkronen und kommen nur
 Diese hier schon. Und tritt auf eine Spore.
 Nach ein paar Tagen sitzt der Pilz in jedem Muskel ihres Körpers. Nur ins Gehirn geht er nicht.
 Sie verlässt den Pfad. Sie zittert. Sie fällt vom Ast.
-Dann klettert sie eine Pflanze hoch. Genau fünfundzwanzig Zentimeter. Nordseite. Fünfundneunzig Prozent Luftfeuchtigkeit.
+Dann klettert sie eine Pflanze hoch. Genau fünfundzwanzig Zentimeter. Nordseite.
 
 **Snap**
 Um zwölf Uhr mittags beißt sie in eine Blattader.
@@ -53,7 +53,7 @@ Ein paar Tage später wächst ein Stiel aus ihrem Kopf, und Sporen regnen auf de
 Unter solchen Blättern zählten Forscher zweitausendzweihundert tote Ameisen. Und nur zwei lebende.
 
 **Callback-Twist**
-Die Ameisen haben in achtundvierzig Millionen Jahren also genau eine Regel gelernt, die in jedem Zombiefilm stimmt:
+Die Ameisen haben also genau eine Regel gelernt, die in jedem Zombiefilm stimmt:
 Bleib oben. Und geh nie auf den Friedhof.
 
 ## Bildidee (grob, wird in story.ts ausgearbeitet)
