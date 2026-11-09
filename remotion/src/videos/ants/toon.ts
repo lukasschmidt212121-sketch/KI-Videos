@@ -185,7 +185,7 @@ const rrect = (x0: number, y0: number, x1: number, y1: number, r: number, n = 8)
 };
 
 /** tapered stroke, thick end at a: brows, moustache halves */
-const taper = (p: Pen, a: P2, b: P2, wa: number, wb: number, col = INK) => {
+export const taper = (p: Pen, a: P2, b: P2, wa: number, wb: number, col = INK) => {
   const dx = b[0] - a[0], dy = b[1] - a[1], l = Math.hypot(dx, dy) || 1, nx = -dy / l, ny = dx / l;
   p.poly([[a[0] + nx * wa / 2, a[1] + ny * wa / 2], [b[0] + nx * wb / 2, b[1] + ny * wb / 2],
     [b[0] - nx * wb / 2, b[1] - ny * wb / 2], [a[0] - nx * wa / 2, a[1] - ny * wa / 2]], col, 0);
@@ -305,7 +305,7 @@ const mouth = (p: Pen, kind: MouthK, mx: number, my: number, u: number, k = 1) =
 
 /** face v2 (front / 3-4). u = 1 % of the head path width W. Eyes 26u apart on the centre line, brows 20u up, mouth 20u
  *  down, everything slid toward the facing side. No blush, no catchlights. */
-const faceFront = (p: Pen, cx: number, cy: number, W: number, expr: Expr, facing: number, look: number, lid: number, brim: boolean,
+export const faceFront = (p: Pen, cx: number, cy: number, W: number, expr: Expr, facing: number, look: number, lid: number, brim: boolean,
   skin: string, moustache?: string, stout = false) => {
   const u = W / 100, F = FACE[expr], fx = cx + 7 * u * facing;
   const ex = (F.eye[0] === "shock" ? 12 : 13) * u, ey = cy;

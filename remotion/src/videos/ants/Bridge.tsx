@@ -12,7 +12,7 @@ import { AbsoluteFill, continueRender, delayRender, getInputProps, useCurrentFra
 import { ThreeCanvas } from "@remotion/three";
 import { useFrame, useThree } from "@react-three/fiber";
 import { BlendFunction, BloomEffect, EffectComposer, EffectPass, RenderPass, ToneMappingEffect, ToneMappingMode, type Effect } from "postprocessing";
-import { World, loadKit } from "./world";
+import { World, loadKit } from "./forest";
 import { InkPass, noInkFallback } from "./ink";
 import { LensBlur, GrainEffect } from "./lensblur";
 import { GradeEffect, GRADES, GRADE_STRENGTH, gradeFor } from "./grade";
